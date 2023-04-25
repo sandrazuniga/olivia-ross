@@ -1,0 +1,10 @@
+.bg-navbar-propio {
+    background-color: rgb(133, 119, 119);
+}
+
+#hero-section {
+    background-image: url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
